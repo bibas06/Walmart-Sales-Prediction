@@ -1,4 +1,4 @@
-# Retail Sales Prediction
+# Walmart Sales Prediction
 
 This repository contains Jupyter Notebooks and resources for predicting retail sales using machine learning techniques. The goal is to analyze historical sales data and build models that can forecast future sales accurately.
 
@@ -39,7 +39,7 @@ This repository contains Jupyter Notebooks and resources for predicting retail s
 
 - Python 3.7+
 - Jupyter Notebook
-- pandas, numpy, scikit-learn, matplotlib, seaborn and etc.
+- pandas, numpy, scikit-learn, matplotlib, seaborn
 
 ## Contributing
 
