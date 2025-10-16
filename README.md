@@ -1,6 +1,6 @@
 # Retail Sales Prediction
 
-This repository contains Jupyter Notebooks and resources for predicting retail sales using machine learning techniques. The goal is to analyze historical sales data and build models that can forecast future sales for retail businesses.
+This repository contains Jupyter Notebooks and resources for predicting retail sales using machine learning techniques. The goal is to analyze historical sales data and build models that can forecast future sales accurately.
 
 ## Features
 
@@ -39,7 +39,7 @@ This repository contains Jupyter Notebooks and resources for predicting retail s
 
 - Python 3.7+
 - Jupyter Notebook
-- pandas, numpy, scikit-learn, matplotlib, seaborn (see `requirements.txt` for full list)
+- pandas, numpy, scikit-learn, matplotlib, seaborn and etc.
 
 ## Contributing
 
